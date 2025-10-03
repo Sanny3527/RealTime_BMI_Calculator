@@ -16,3 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ![image alt](https://github.com/Sanny3527/RealTime_BMI_Calculator/blob/6b0044a49b60fa5b204cbede7862b66ad1c25fb8/Screenshot%202025-10-04%20003217.png)
+![image alt](https://github.com/Sanny3527/RealTime_BMI_Calculator/blob/4820d453a3e22f40f08ebfaf561f4c80cb5c4a84/Screenshot%202025-10-04%20003243.png)
